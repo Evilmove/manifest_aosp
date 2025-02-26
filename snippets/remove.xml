@@ -1,5 +1,6 @@
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
   <!-- Hardware repos -->
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/interfaces" />
